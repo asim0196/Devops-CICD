@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "WELCOME TO World";
+		return "WELCOME TO CloudBlitz";
 	}
 
 	public static void main(String[] args) {
